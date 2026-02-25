@@ -17,7 +17,7 @@
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## reset your project:
+## reset your project: s
 
 ```bash
 npm run reset-project
