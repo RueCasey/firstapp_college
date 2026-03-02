@@ -3,10 +3,11 @@
 
 - ~~Create Expo App~~
 - ~~Reset Project~~
-- Edit New App
-- Play with Styling
-- Create basic Pokemon selection from array
-- Commit
+- ~~Edit New App~~
+- ~~Play with Styling~~
+- ~~Create basic Pokemon selection with use states, and text alerts, and images from array~~
+- ~~Commit~~
+- Continue Handler
 
 ## Useful Links
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
